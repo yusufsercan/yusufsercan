@@ -93,9 +93,6 @@ Practical experiments, packet inspection, and network security labs focused on p
 </p>
 
 ---
-
-### 📈 GitHub Stats
-
 ### 📈 GitHub Stats
 
 <p align="center">

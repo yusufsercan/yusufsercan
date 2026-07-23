@@ -2,7 +2,7 @@
 
 # Hi, I'm Yusuf Sercan 👋
 
-**Software Engineering Student | Systems & Security Enthusiast**
+**Software Engineering Student at Karadeniz Technical University (KTU)**
 
 *I focus on low-level programming, C/C++ architecture, Linux systems administration, and network security.*
 
@@ -11,32 +11,32 @@
 <!-- ROZETLER / LINKLER -->
 <p>
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:yusufsercan@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:yusufsercan08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 </div>
 
 ---
 
-<!-- IKI KOLONLU HAKKINDA VE MEVCUT DURUM TABLOSU -->
+<!-- İKİ KOLONLU HAKKINDA VE MEVCUT ODAK TABLOSU -->
 <table>
   <tr>
     <td width="50%" valign="top">
 
 ### 🎯 About Me
-* 🎓 **Education:** Studying Software Engineering.
-* 🛠️ **Core Focus:** C/C++ development, memory management, pointers, and algorithm design.
+* 🎓 **Education:** Software Engineering at **Karadeniz Technical University (KTU)**.
+* 🛠️ **Core Focus:** C/C++ & Python development, memory management (Pointers), data structures, and algorithm design.
 * 🐧 **Environment:** Linux power-user, terminal-driven workflow, and bash scripting.
-* 🌐 **Security:** Actively studying network security fundamentals and protocol analysis.
+* 🌐 **Security:** Actively studying network fundamentals, protocol analysis, and cybersecurity concepts.
 * 📐 **Engineering Mindset:** Clean code architecture, structured Git workflows, and continuous improvement.
 
     </td>
     <td width="50%" valign="top">
 
-### 🛰️ Current Focus & Activity
-* 🚀 **Currently Building:** C++ Data Structures & Algorithms Repository.
-* 📚 **Learning:** Advanced Network Security, Socket Programming & C Systems.
-* 🗣️ **Languages:** Improving English Proficiency (B1 target) & Japanese Fundamentals (N5).
+### 🛰️ Current Focus & Goals
+* 🚀 **Active Repo:** C++ Study Notes and Algorithm Laboratory.
+* 📚 **Learning:** Advanced Network Security, Socket Programming & Linux Systems.
+* 🗣️ **Languages:** Improving English Proficiency (B1) & Japanese Fundamentals (N5).
 * ⚙️ **Tools:** VS Code, Linux CLI, Git, GCC/G++.
 
     </td>
@@ -45,14 +45,14 @@
 
 ---
 
-### 📦 Featured Repositories & Projects
+### 📦 Featured Repositories
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
 #### 🚀 [cpp-dersleri-ve-uygulamalar](https://github.com/yusufsercan/cpp-dersleri-ve-uygulamalar)
-Comprehensive C/C++ study repository covering core concepts, pointers, memory allocation, and object-oriented programming.
+Comprehensive C/C++ study repository covering core concepts, pointers, dynamic memory allocation, and object-oriented programming.
 
 * **Stack:** C, C++, GCC, Make
 * **Focus:** Clean Code & Systems Fundamentals
@@ -65,7 +65,7 @@ Comprehensive C/C++ study repository covering core concepts, pointers, memory al
 Practical experiments, packet inspection, and network security labs focused on protocol behaviors.
 
 * **Stack:** Linux, Wireshark, Bash, C
-* **Focus:** Wireless & Network Security
+* **Focus:** Network & System Security
 * **Status:** `Planning Phase`
 
     </td>
@@ -87,9 +87,15 @@ Practical experiments, packet inspection, and network security labs focused on p
 
 ---
 
-### 📈 GitHub Activity & Stats
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yusufsercan&show_icons=true&theme=dark" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufsercan&layout=compact&theme=dark" width="48%" />
 </p>
+
+---
+
+<blockquote align="center">
+  <i>"The best way to predict the future is to invent it."</i>
+</blockquote>

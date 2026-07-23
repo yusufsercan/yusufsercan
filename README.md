@@ -33,11 +33,18 @@
     </td>
     <td width="50%" valign="top">
 
+<td width="50%" valign="top">
+
 ### 🛰️ Current Focus & Goals
 * 🚀 **Active Repo:** C++ Study Notes and Algorithm Laboratory.
-* 📚 **Learning:** Advanced Network Security, Socket Programming & Linux Systems.
-* 🗣️ **Languages:** Improving English Proficiency (C2)
+* 📚 **Learning Topics:** Advanced Network Security, Socket Programming & Linux Systems.
+* 🎯 **Future Goals:** 
+  * Achieve advanced proficiency in **C, C++, and Python**.
+  * Expand expertise into database management with **SQL**.
+  * Elevate English language proficiency to **C2 level**.
 * ⚙️ **Tools:** VS Code, Linux CLI, Git, GCC/G++.
+
+    </td>
 
     </td>
   </tr>

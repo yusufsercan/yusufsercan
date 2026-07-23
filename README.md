@@ -36,7 +36,7 @@
 ### 🛰️ Current Focus & Goals
 * 🚀 **Active Repo:** C++ Study Notes and Algorithm Laboratory.
 * 📚 **Learning:** Advanced Network Security, Socket Programming & Linux Systems.
-* 🗣️ **Languages:** Improving English Proficiency (B1) & Japanese Fundamentals (N5).
+* 🗣️ **Languages:** Improving English Proficiency (C2)
 * ⚙️ **Tools:** VS Code, Linux CLI, Git, GCC/G++.
 
     </td>

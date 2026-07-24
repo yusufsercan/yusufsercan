@@ -31,20 +31,13 @@
 * 📐 **Engineering Mindset:** Clean code architecture, structured Git workflows, and continuous improvement.
 
     </td>
-<td width="50%" valign="top">
+    <td width="50%" valign="top">
 
 ### 🛰️ Current Focus & Goals
 * 🚀 **Active Repo:** C++ Study Notes and Algorithm Laboratory.
-* 📚 **Learning Topics:** Advanced Network Security, Socket Programming & Linux Systems.
-* 🎯 **Future Goals:** 
-  * Achieve advanced proficiency in **C, C++, and Python**.
-  * Expand expertise into database management with **SQL**.
-  * Elevate English language proficiency to **C2 level**.
+* 📚 **Learning:** Advanced Network Security, Socket Programming & Linux Systems.
+* 🗣️ **Languages:** Improving English Proficiency (B1) & Japanese Fundamentals (N5).
 * ⚙️ **Tools:** VS Code, Linux CLI, Git, GCC/G++.
-
-    </td>
-
-    </td>
 
     </td>
   </tr>
@@ -54,28 +47,19 @@
 
 ### 📦 Featured Repositories
 
-<table width="100%">
+<table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🚀 <a href="https://github.com/yusufsercan/cpp-course-notes-and-practices">cpp-course-notes-and-practices</a></h4>
-      <p>Comprehensive C/C++ study repository covering core concepts, pointers, dynamic memory allocation, and object-oriented programming.</p>
-      <ul>
-        <li><b>Stack:</b> C, C++, GCC, Make</li>
-        <li><b>Focus:</b> Clean Code & Systems Fundamentals</li>
-        <li><b>Status:</b> <code>Active Development</code></li>
-      </ul>
+
+#### 🚀 [cpp-dersleri-ve-uygulamalar](https://github.com/yusufsercan/cpp-dersleri-ve-uygulamalar)
+Comprehensive C/C++ study repository covering core concepts, pointers, dynamic memory allocation, and object-oriented programming.
+
+* **Stack:** C, C++, GCC, Make
+* **Focus:** Clean Code & Systems Fundamentals
+* **Status:** `Active Development`
+
     </td>
     <td width="50%" valign="top">
-      <h4>🛡️ Network-Security-Lab <i>(Coming Soon)</i></h4>
-      <p>Practical experiments, packet inspection, and network security labs focused on protocol behaviors.</p>
-      <ul>
-        <li><b>Stack:</b> Linux, Wireshark, Bash, C</li>
-        <li><b>Focus:</b> Network & System Security</li>
-        <li><b>Status:</b> <code>Planning Phase</code></li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 #### 🛡️ [Network-Security-Lab](https://github.com/yusufsercan) *(Coming Soon)*
 Practical experiments, packet inspection, and network security labs focused on protocol behaviors.
@@ -102,12 +86,12 @@ Practical experiments, packet inspection, and network security labs focused on p
 </p>
 
 ---
-### 📉 GitHub Stats
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusufsercan08&show_icons=true&theme=tokyonight&hide_border=true" alt="Yusuf Sercan's GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufsercan08&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yusufsercan&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufsercan&layout=compact&theme=dark" width="48%" />
 </p>
 
 ---

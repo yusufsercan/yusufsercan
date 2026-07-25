@@ -56,7 +56,7 @@
   <tr>
     <td width="50%" valign="top">
 
-#### 🚀 [cpp-dersleri-ve-uygulamalar](https://github.com/yusufsercan/cpp-dersleri-ve-uygulamalar)
+#### 🚀 [cpp-course-notes-and-practices](https://github.com/yusufsercan/cpp-dersleri-ve-uygulamalar)
 Comprehensive C/C++ study repository covering core concepts, pointers, dynamic memory allocation, and object-oriented programming.
 
 * **Stack:** C, C++, GCC, Make

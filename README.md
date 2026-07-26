@@ -27,7 +27,7 @@
 * 🎓 **Education:** Software Engineering at **Karadeniz Technical University (KTU)**.
 * 🛠️ **Core Focus:** C/C++ & Python development, memory management (Pointers), data structures, and algorithm design.
 * 🐧 **Environment:** Windows primary OS, using Linux via Virtual Machines (VMs) & WSL for security labs and development.
-* 🌐 **Security:** Actively studying network fundamentals, protocol analysis, and cybersecurity concepts.
+* 🌐 **Security:** Learning network security fundamentals via online courses (Udemy) and practicing hands-on labs on platforms like TryHackMe and Hackviser.
 * 📐 **Engineering Mindset:** Clean code architecture, structured Git workflows, and continuous improvement.
 
     </td>

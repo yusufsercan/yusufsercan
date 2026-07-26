@@ -44,7 +44,7 @@
   
 * 📚 **Active Course (Udemy):**
   * Ethical Hacking Fundamentals *(Atil Samancioglu)*
-* ⏳ **Upcoming Courses:**
+* ⏳ **Upcoming Courses(Udemy):**
   * Ethical Hacking - Level 2: Network Attacks
   * Python for Ethical Hackers: From Basics to Advanced
 

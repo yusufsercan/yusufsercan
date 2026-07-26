@@ -42,17 +42,11 @@
   * Elevate English language proficiency to **C2 level**.
 * ⚙️ **Tools:** VS Code, Linux CLI, Git, GCC/G++.
   
-* 📚 **Active Course (Udemy):
+* 📚 **Active Course (Udemy):**
   * Ethical Hacking Fundamentals *(Atil Samancioglu)*
-    
 * ⏳ **Upcoming Courses:**
   * Ethical Hacking - Level 2: Network Attacks
   * Python for Ethical Hackers: From Basics to Advanced
-    
-* 🚀 **Current Goals:**
-  * Complete foundational C/C++ practices and structure GitHub repos.
-  * Practice hands-on cybersecurity labs on **TryHackMe** & **Hackviser**.
-  * Elevate English language proficiency to B2/C1 level.
 
     </td>
 

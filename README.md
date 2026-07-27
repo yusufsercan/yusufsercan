@@ -6,7 +6,8 @@
 
 *I focus on low-level programming, C/C++ architecture, Linux systems administration, and network security.*
 
-
+---
+---
 
 <!-- İKİ KOLONLU HAKKINDA VE MEVCUT ODAK TABLOSU -->
 <table>

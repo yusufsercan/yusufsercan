@@ -65,7 +65,7 @@
 #### 🚀 [cpp-course-notes-and-practices](https://github.com/yusufsercan/cpp-dersleri-ve-uygulamalar)
 Comprehensive C/C++ study repository covering core concepts, pointers, dynamic memory allocation, and object-oriented programming.
 
-* **Stack:** C, C++, GCC, Make
+* **Stack:** C++, GCC, Make
 * **Focus:** Clean Code & Systems Fundamentals
 * **Status:** `Active Development`
 

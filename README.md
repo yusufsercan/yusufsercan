@@ -58,7 +58,7 @@
 
 ## 📦 Featured Repositories
 
-### 🚀 [cpp-course-notes-and-practices](https://github.com/ahmet/cpp-course-notes-and-practices)
+### 🚀 [cpp-course-notes-and-practices](https://github.com/yusufsercan/cpp-course-notes-and-practices)
 Comprehensive C++ study repository covering core concepts, pointers, dynamic memory allocation, and object-oriented programming.
 * **Stack:** C++, GCC, Make
 * **Focus:** Clean Code & Systems Fundamentals
@@ -66,7 +66,7 @@ Comprehensive C++ study repository covering core concepts, pointers, dynamic mem
 
 ---
 
-### ⚙️ [c-programming-notes-and-practices](https://github.com/kullaniciadi/c-programming-notes-and-practices)
+### ⚙️ [c-programming-notes-and-practices](https://github.com/yusufsercan/c-programming-notes-and-practices)
 Comprehensive C programming study repository focusing on low-level memory management, pointers, struct architectures, and system algorithms.
 * **Stack:** C, GCC, Make
 * **Focus:** Low-Level Programming & Data Structures

@@ -56,32 +56,29 @@
 
 ---
 
-### 📦 Featured Repositories
+## 📦 Featured Repositories
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-#### 🚀 [cpp-course-notes-and-practices](https://github.com/yusufsercan/cpp-dersleri-ve-uygulamalar)
-Comprehensive C/C++ study repository covering core concepts, pointers, dynamic memory allocation, and object-oriented programming.
-
+### 🚀 [cpp-course-notes-and-practices](https://github.com/kullaniciadi/cpp-course-notes-and-practices)
+Comprehensive C++ study repository covering core concepts, pointers, dynamic memory allocation, and object-oriented programming.
 * **Stack:** C++, GCC, Make
 * **Focus:** Clean Code & Systems Fundamentals
 * **Status:** `Active Development`
 
-    </td>
-    <td width="50%" valign="top">
+---
 
-#### 🛡️ [Network-Security-Lab](https://github.com/yusufsercan) *(Coming Soon)*
+### ⚙️ [c-programming-notes-and-practices](https://github.com/kullaniciadi/c-programming-notes-and-practices)
+Comprehensive C programming study repository focusing on low-level memory management, pointers, struct architectures, and system algorithms.
+* **Stack:** C, GCC, Make
+* **Focus:** Low-Level Programming & Data Structures
+* **Status:** `Active Development`
+
+---
+
+### 🛡️ Network-Security-Lab *(Coming Soon)*
 Practical experiments, packet inspection, and network security labs focused on protocol behaviors.
-
 * **Stack:** Linux, Wireshark, Bash, C
 * **Focus:** Network & System Security
 * **Status:** `Planning Phase`
-
-    </td>
-  </tr>
-</table>
 
 ---
 

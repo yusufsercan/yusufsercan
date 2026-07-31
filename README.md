@@ -95,12 +95,10 @@ Practical experiments, packet inspection, and network security labs focused on p
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusufsercan&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufsercan&layout=compact&theme=dark" width="48%" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yusufsercan&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufsercan&layout=compact&theme=dark)
 
 ---
 

@@ -104,7 +104,6 @@ Practical experiments, packet inspection, and network security labs focused on p
 
 ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yusufsercan&theme=dark" width="48%" alt="Yusuf Sercan Streak" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yusufsercan&layout=compact&theme=dark" width="48%" alt="En Çok Kullanılan Diller" />
-</p>
+<blockquote align="center">
+  <i>"The best way to predict the future is to invent it."</i>
+</blockquote>

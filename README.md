@@ -98,8 +98,8 @@ Practical experiments, packet inspection, and network security labs focused on p
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yusufsercan&color=blueviolet&style=for-the-badge" height="120" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yusufsercan&theme=react-dark" width="65%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yusufsercan&theme=react-dark" width="55%" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,linux,bash,git,vscode,github&perline=2&theme=dark" width="40%" />
 </p>
 
 ---

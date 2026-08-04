@@ -1,0 +1,26 @@
+name: Update GitHub Streak Stats
+
+on:
+  schedule:
+    # Her gece gece yarısı (UTC 00:00) otomatik çalışır
+    - cron: '0 0 * * *'
+  workflow_dispatch: # İstersen elle de tetikleyebilirsin
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: GitHub Streak Stats Bot
+        uses: denvercoder1/github-readme-streak-stats@main
+        with:
+          github_user_id: ${{ github.repository_owner }}
+
+      - name: Commit & Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          git add -A
+          git commit -m "Update Streak Stats" || exit 0
+          git push

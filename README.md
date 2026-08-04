@@ -98,8 +98,8 @@ Practical experiments, packet inspection, and network security labs focused on p
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Daily_Coding_Streak-Active-brightgreen?style=for-the-badge&logo=visualstudiocode" height="50" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yusufsercan&theme=react-dark" width="55%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufsercan&theme=dark" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yusufsercan&theme=react-dark" width="49%" />
 </p>
 
 ---

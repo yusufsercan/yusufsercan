@@ -98,7 +98,7 @@ Practical experiments, packet inspection, and network security labs focused on p
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yusufsercan&theme=dark" width="48%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yusufsercan&theme=react-dark" width="48%" />
 </p>
 

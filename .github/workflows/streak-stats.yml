@@ -4,7 +4,7 @@ on:
   schedule:
     # Her gece gece yarısı (UTC 00:00) otomatik çalışır
     - cron: '0 0 * * *'
-  workflow_dispatch: # İstersen elle de tetikleyebilirsin
+  workflow_dispatch: # Elle tetiklemek için
 
 jobs:
   update-readme:

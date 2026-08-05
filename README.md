@@ -99,7 +99,7 @@ Practical experiments, packet inspection, and network security labs focused on p
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=yusufsercan&theme=dark" width="48%" alt="Yusuf Sercan Streak" />
-  <img src="https://ghchart.rshah.org/40c463/yusufsercan" width="48%" alt="Yusuf Sercan Katkı Grafiği" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yusufsercan&theme=react-dark" width="48%" alt="Aktivite Grafiği" />
 </p>
 
 ---

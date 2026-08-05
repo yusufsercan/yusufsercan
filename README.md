@@ -37,7 +37,7 @@
 * 🚀 **Active Repo:** C++ Study Notes and Algorithm Laboratory.
 * 📚 **Learning Topics:** Advanced Network Security, Socket Programming & Linux Systems.
 * 🎯 **Future Goals:** 
-  * Achieve advanced proficiency in **C, C++, and Python**.
+  * Achieve advanced proficiency in **C, C++,SQL and Python**.
   * Expand expertise into database management with **SQL**.
   * Elevate English language proficiency to **C2 level**.
 * ⚙️ **Tools:** VS Code, Linux CLI, Git, GCC/G++.

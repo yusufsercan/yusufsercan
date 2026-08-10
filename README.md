@@ -24,11 +24,28 @@
     <td width="50%" valign="top">
 
 ### 🎯 About Me
-* 🎓 **Education:** Software Engineering at **Karadeniz Technical University (KTU)**.
+
+* 🎓 **Education:** Software Engineering at Karadeniz Technical University (KTU).
 * 🛠️ **Core Focus:** C/C++ & Python development, memory management (Pointers), data structures, and algorithm design.
-* 🐧 **Environment:** Windows primary OS, using Linux via Virtual Machines (VMs) & WSL for security labs and development.
+* 💻 **Environment:** Windows primary OS, using Linux via Virtual Machines (VMs) & WSL for security labs and development.
 * 🌐 **Security:** Learning network security fundamentals via online courses (Udemy) and practicing hands-on labs on platforms like TryHackMe and Hackviser.
 * 📐 **Engineering Mindset:** Clean code architecture, structured Git workflows, and continuous improvement.
+
+---
+
+### 🧰 Tech Stack & Environments
+
+* **Languages:** C, C++, Python, Bash
+* **OS & Environments:** Kali Linux, Ubuntu, Windows 11, WSL2
+* **Hypervisors:** VMware Workstation, VirtualBox
+* **Security & Analysis:** Wireshark, Nmap, Metasploit, Bettercap, Aircrack-ng Suite, Anonsurf
+
+---
+
+### 🏆 Platforms & Practice
+
+* 🛡️ **TryHackMe:** Active lab practice
+* 🎯 **Hackviser:** Hands-on scenario labs
 
     </td>
 <td width="50%" valign="top">

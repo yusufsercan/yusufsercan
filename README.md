@@ -74,11 +74,11 @@ Comprehensive C programming study repository focusing on low-level memory manage
 
 ---
 
-### 🛡️ Network-Security-Lab *(Coming Soon)*
-Practical experiments, packet inspection, and network security labs focused on protocol behaviors.
-* **Stack:** Linux, Wireshark, Bash, C
-* **Focus:** Network & System Security
-* **Status:** `Planning Phase`
+### 🛡️ [Network-Security-Lab](https://github.com/yusufsercan/Network-Security-Lab)
+Practical network security experiments, protocol behavior analyses, packet inspection reports, and defensive architecture notes.
+* **Stack:** Linux, Wireshark, Bettercap, Aircrack-ng, Bash, C
+* **Focus:** Network & System Security, Protocol Analysis, 802.11 & MITM Behaviors
+* **Status:** `Active Development` / `Documented Labs`
 
 ---
 

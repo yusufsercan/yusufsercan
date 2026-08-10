@@ -82,6 +82,15 @@ Practical network security experiments, protocol behavior analyses, packet inspe
 
 ---
 
+---
+
+### 🐍 python-course-notes-and-practices *(Coming Soon)*
+Comprehensive Python study repository focusing on scripting, core syntax, object-oriented programming, and automation/security tooling.
+* **Stack:** Python 3, PyCharm, Virtualenv
+* **Focus:** Scripting, Automation & Systems Fundamentals
+* **Status:** `Planning Phase`
+
+
 ### 💻 Languages and Tools
 
 <p>

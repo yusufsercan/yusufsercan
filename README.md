@@ -33,28 +33,26 @@
     </td>
 <td width="50%" valign="top">
 
-### 🎬 Current Focus & Goals
-
-* 🚀 **Active Repositories:**
-  * [Network-Security-Lab](https://github.com/yusufsercan/Network-Security-Lab) *(Practical Network & Protocol Security Analysis)*
-  * [cpp-course-notes-and-practices](https://github.com/yusufsercan/cpp-course-notes-and-practices) *(C++ Study Notes and Algorithm Laboratory)*
-  * [c-course-notes-and-practices](https://github.com/yusufsercan/c-course-notes-and-practices) *(Low-Level C Programming & Systems)*
-
-* 📚 **Learning Topics:** Advanced Network Security, Socket Programming, Server Penetration Testing & Linux Systems.
-
-* ⚙️ **Tools:** VS Code, Linux CLI, Git, GCC/G++, Wireshark, Metasploit, Nmap, Aircrack-ng.
-
-* 💻 **Active Course (Udemy):**
-  * *Ethical Hacking Fundamentals* (Atil Samancioglu) — **Current Chapter:** Server & Computer Penetration Testing
-
-* ⏳ **Upcoming Courses (Udemy):**
-  * *Ethical Hacking - Level 2: Network Attacks* (Atil Samancioglu)
-  * *Python for Ethical Hackers: From Basics to Advanced* (Atil Samancioglu)
-
-* 🎯 **Future Goals:**
+### 🛰️ Current Focus & Goals
+* 🚀 **Active Repo:** C++ Study Notes and Algorithm Laboratory.
+* 📚 **Learning Topics:** Advanced Network Security, Socket Programming & Linux Systems.
+* 🎯 **Future Goals:** 
   * Achieve advanced proficiency in **C, C++ and Python**.
   * Expand expertise into database management with **SQL**.
   * Elevate English language proficiency to **C2 level**.
+* ⚙️ **Tools:** VS Code, Linux CLI, Git, GCC/G++.
+  
+* 📚 **Active Course (Udemy):**
+  * Ethical Hacking Fundamentals *(Atil Samancioglu)*
+* ⏳ **Upcoming Courses(Udemy):**
+  * Ethical Hacking - Level 2: Network Attacks *(Atil Samancioglu)*
+  * Python for Ethical Hackers: From Basics to Advanced *(Atil Samancioglu)*
+
+    </td>
+
+    </td>
+  </tr>
+</table>
 
 ---
 

@@ -113,6 +113,13 @@ Practical network security experiments, protocol behavior analyses, packet inspe
 
 ---
 
+### 🕵️ Mini-Sherlock OSINT Scanner `[Coming Soon]`
+* **Focus:** Open Source Intelligence (OSINT), HTTP Status Code Auditing & Username Reconnaissance.
+* **Stack:** Modern C++, libcurl / WinINet, STL Containers (`vector`, `map`).
+* **Status:** ⏳ In Planning / Roadmapped.
+
+---
+
 ### 💻 Languages and Tools
 
 <p>

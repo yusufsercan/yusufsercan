@@ -106,11 +106,10 @@ Practical network security experiments, protocol behavior analyses, packet inspe
 
 ---
 
-### 🐍 python-course-notes-and-practices *(Coming Soon)*
-Comprehensive Python study repository focusing on scripting, core syntax, object-oriented programming, and automation/security tooling.
-* **Stack:** Python 3, PyCharm, Virtualenv
-* **Focus:** Scripting, Automation & Systems Fundamentals
-* **Status:** `Planning Phase`
+### 🛡️ XOR File Crypter & Security Tool `[Coming Soon]`
+* **Focus:** Bitwise XOR Cryptography, File Stream (`fstream`), Data Integrity & Defensive Security.
+* **Stack:** C++17, STL, File I/O (`fstream`), Windows API / POSIX.
+* **Status:** ⏳ In Planning / Roadmapped..
 
 ---
 

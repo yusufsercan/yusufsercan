@@ -1,20 +1,15 @@
 <div align="center">
 
 # Hi, I'm Yusuf Sercan 👋
+### Software Engineering Student @ Karadeniz Technical University (KTU)
 
-**Software Engineering Student at Karadeniz Technical University (KTU)**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/KULLANICI_ADIN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusufsercanisci2005@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/KULLANICI_ADIN)
 
-*I focus on low-level programming, C/C++ architecture, Linux systems administration, and network security.*
-
----
-
-<!-- ROZETLER / LINKLER -->
-<p>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:yusufsercan2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p align="center">
+  <em>Passionate about low-level system design, memory management, Linux internals, and cybersecurity architecture.</em>
 </p>
-
-</div>
 
 ---
 

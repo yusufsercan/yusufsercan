@@ -28,7 +28,7 @@
 
 </div>
 
-
+---
 
 <!-- İKİ KOLONLU HAKKINDA VE MEVCUT ODAK TABLOSU -->
 <table>

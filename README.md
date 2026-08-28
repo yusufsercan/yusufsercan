@@ -145,11 +145,18 @@ Practical network security experiments, protocol behavior analyses, packet inspe
 
 ---
 
-📊 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yusufsercan&theme=dark" width="48%" alt="Yusuf Sercan Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yusufsercan&theme=react-dark" width="48%" alt="Yusuf Sercan Activity Graph" />
-</p>
+### 📊 GitHub Stats & Activity
+<div align="center">
+<!-- 1. KART: Heroku Üzerinde Çalışan Kararlı Streak Servisi -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufsercan&theme=tokyonight&hide_border=true" width="48%" alt="Yusuf Sercan Streak" />
 
----
+<!-- 2. KART: En Çok Kullanılan Diller Kartı -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufsercan&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+
+<br/><br/>
+
+<!-- 3. KART: Asla Çökmeyen Yeşil Katkı Haritası (ghchart) -->
+<img src="https://ghchart.rshah.org/2196f3/yusufsercan" width="96%" alt="GitHub Katkı Haritası" />
+
+</div>
 

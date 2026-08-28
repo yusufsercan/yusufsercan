@@ -145,11 +145,18 @@ Practical network security experiments, protocol behavior analyses, packet inspe
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufsercan&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats" />
-</p>
+### 📊 GitHub Activity & Stats
 
----
+<!-- Asla çökmeyen, doğrudan GitHub verisiyle çizilen katkı haritası -->
+<img src="https://ghchart.rshah.org/2196f3/yusufsercan" alt="Yusuf Sercan GitHub Katkı Haritası" width="95%" />
+
+<br/><br/>
+
+<!-- Alternatif ve stabil stats kartı (Önbellek kilidi kırılmış) -->
+<img src="https://github-readme-stats.vercel.app/api?username=yusufsercan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%" alt="Yusuf Sercan Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufsercan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" alt="Top Languages" />
+
+</div>
 

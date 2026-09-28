@@ -149,7 +149,7 @@ Practical network security experiments, protocol behavior analyses, packet inspe
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=yusufsercan&theme=dark&hide_border=true" width="48%" alt="Yusuf Sercan Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yusufsercan&theme=react-dark&hide_border=true&area=true" width="48%" alt="Yusuf Sercan Activity Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=yusufsercan&theme=react-dark&hide_border=true&area=true" width="48%" alt="Yusuf Sercan Activity Graph" />
 </p>
 
 ---

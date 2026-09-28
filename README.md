@@ -1,7 +1,7 @@
 <div align="center"> 
  
 # Hi, I'm Yusuf Sercan 👋 
-
+ 
 **Software Engineering Student at Karadeniz Technical University (KTU)**
 
 *I focus on low-level programming, C, C++, Python, SQL architecture, Linux systems administration, and network security.*

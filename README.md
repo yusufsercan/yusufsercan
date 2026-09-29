@@ -80,7 +80,7 @@
   * *Python for Ethical Hackers: From Basics to Advanced* (Atil Samancioglu)
 
 * 🎯 **Future Goals:**
-  * Achieve advanced proficiency in **C, C++ and Python**.
+  * Achieve advanced proficiency in **C, C++,Java and Python**.
   * Expand expertise into database management with **SQL**.
   * Elevate English language proficiency to **C2 level**.
 

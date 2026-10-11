@@ -118,10 +118,11 @@ Practical network security experiments, protocol behavior analyses, packet inspe
 
 ---
 
-### 🛡️ XOR File Crypter & Security Tool `[Coming Soon]`
-* **Focus:** Bitwise XOR Cryptography, File Stream (`fstream`), Data Integrity & Defensive Security.
-* **Stack:** C++17, STL, File I/O (`fstream`), Windows API / POSIX.
-* **Status:** ⏳ In Planning / Roadmapped..
+### ☕ [java-oop-course-notes-and-practices](https://github.com/yusufsercan/java-oop-course-notes-and-practices)
+Comprehensive Java study repository covering Object-Oriented Programming (OOP) paradigms, JVM architecture, design principles, and academic laboratory practices.
+* **Stack:** Java (JDK 21), JVM, javac
+* **Focus:** Object-Oriented Programming (OOP), Memory Management & Clean Architecture
+* **Status:** `Active Development`
 
 ---
 

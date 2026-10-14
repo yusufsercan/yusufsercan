@@ -47,7 +47,7 @@
 
 ### 🧰 Tech Stack & Environments
 
-* **Languages:** C, C++, Python, Bash
+* **Languages:** C, C++, Java, Bash
 * **OS & Environments:** Kali Linux, Ubuntu, Windows 11, WSL2
 * **Hypervisors:** VMware Workstation, VirtualBox
 * **Security & Analysis:** Wireshark, Nmap, Metasploit, Bettercap, Aircrack-ng Suite, Anonsurf

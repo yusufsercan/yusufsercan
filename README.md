@@ -79,12 +79,13 @@
 * ⏳ **Upcoming Courses (Udemy):**
   * *Ethical Hacking - Level 2: Network Attacks* (Atil Samancioglu)
   * *Python for Ethical Hackers: From Basics to Advanced* (Atil Samancioglu)
+---
+### 🎯 Key Milestones
 
-* 🎯 **Future Goals:**
-  * Achieve advanced proficiency in **C, C++,Java and Python**.
-  * Expand expertise into database management with **SQL**.
-  * Elevate English language proficiency to **C2 level**.
-
+- 🚀 Advanced proficiency across **C, C++, Java, and Python** software development.
+- 🗃️ Practical mastery in relational databases, indexing, and secure data storage.
+- 🌐 Professional English language fluency (Target: **C1/C2**)
+- 
     </td>
 
     </td>

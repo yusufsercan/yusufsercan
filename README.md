@@ -1,10 +1,14 @@
-<div align="center">
+ <div align="center">    
+  
+# Hi, I'm Yusuf Sercan 👋    
+ 
+**Software Engineering Student at Karadeniz Technical Universi ty (KTU)**
 
-Hi, I'm Yusuf Sercan 👋
-Software Engineering Student at Karadeniz Technical University (KTU)
+*I focus on low-level programming, C, C++,Java,Python, SQL architecture, Linux systems administration, and network security.*
 
-I focus on low-level programming, C, C++, Java, Python, SQL, Linux systems administration, and network security.
-<p>
+---
+
+<p align="center">
   <a href="https://linkedin.com/in/KULLANICI_ADIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -24,46 +28,69 @@ I focus on low-level programming, C, C++, Java, Python, SQL, Linux systems admin
 
 </div>
 
+---
+
+<!-- İKİ KOLONLU HAKKINDA VE MEVCUT ODAK TABLOSU -->
 <table>
   <tr>
     <td width="50%" valign="top">
 
-🎯 About Me
-- 🎓 Education: Software Engineering at Karadeniz Technical University (KTU).
-- 🛠️ Core Focus: C/C++, Java, and Python; pointers, memory management, data structures, and algorithms.
-- 💻 Environment: Windows as my primary OS, with Linux VMs and WSL for development and security labs.
-- 🌐 Security: Learning network security through online courses and hands-on practice on platforms such as TryHackMe and Hackviser.
-- 📐 Engineering Mindset: Clean code, structured Git workflows, and continuous improvement.
-🧰 Tech Stack & Environments
-- Languages: C, C++, Java, Python, Bash, SQL
-- OS & Environments: Kali Linux, Ubuntu, Windows 11, WSL2
-- Hypervisors: VMware Workstation, VirtualBox
-- Security & Analysis: Wireshark, Nmap, Metasploit, Bettercap, Aircrack-ng
-🏆 Platforms & Practice
-- 🛡️ TryHackMe: Hands-on lab practice
-- 🎯 Hackviser: Scenario-based security labs
+### 🎯 About Me
+
+* 🎓 **Education:** Software Engineering at Karadeniz Technical University (KTU).
+* 🛠️ **Core Focus:** C/C++,Java & Python development, memory management (Pointers), data structures, and algorithm design.
+* 💻 **Environment:** Windows primary OS, using Linux via Virtual Machines (VMs) & WSL for security labs and development.
+* 🌐 **Security:** Learning network security fundamentals via online courses (Udemy) and practicing hands-on labs on platforms like TryHackMe and Hackviser.
+* 📐 **Engineering Mindset:** Clean code architecture, structured Git workflows, and continuous improvement.
+
+---
+
+### 🧰 Tech Stack & Environments
+
+* **Languages:** C, C++, Java, Bash
+* **OS & Environments:** Kali Linux, Ubuntu, Windows 11, WSL2
+* **Hypervisors:** VMware Workstation, VirtualBox
+* **Security & Analysis:** Wireshark, Nmap, Metasploit, Bettercap, Aircrack-ng Suite, Anonsurf
+
+---
+
+### 🏆 Platforms & Practice
+
+* 🛡️ **TryHackMe:** Active lab practice
+* 🎯 **Hackviser:** Hands-on scenario labs
+
     </td>
-    <td width="50%" valign="top">
-🎯 Current Focus & Goals
-- 🚀 Active Repositories:
-  - Network-Security-Lab — Practical network and protocol security analysis
-  - cpp-course-notes-and-practices — C++ study notes and algorithm practice
-  - c-course-notes-and-practices — Low-level C programming and systems fundamentals
-- 📚 Learning Topics: Network security, socket programming, server penetration testing, and Linux systems.
-- ⚙️ Tools: VS Code, Linux CLI, Git, GCC/G++, Wireshark, Metasploit, Nmap, and Aircrack-ng.
-- 💻 Active Udemy Course:
-  Ethical Hacking Fundamentals — Atil Samancıoğlu
-  Current topic: Server and computer penetration testing
-- ⏳ Upcoming Courses:
-  - Ethical Hacking — Level 2: Network Attacks — Atil Samancıoğlu
-  - Python for Ethical Hackers: From Basics to Advanced — Atil Samancıoğlu
-- 🎯 Future Goals:
-  - Improve proficiency in C, C++, Java, and Python.
-  - Strengthen database skills with SQL.
-  - Raise English proficiency toward C2.
-    </td>
-  </tr>
-</table>
+<td width="50%" valign="top">
+
+<td valign="top" width="50%">
+
+### 🎯 Current Focus & Goals
+
+* 🚀 **Active Repositories:**
+
+* [Network-Security-Lab](*Practical Network & Protocol Security Analysis*)
+
+* [cpp-course-notes-and-practices](*C++ Study Notes and Algorithm Laboratory*)
+
+* [c-course-notes-and-practices](*Low-Level C Programming & Systems*)
+
+* 📚 **Learning Topics:** Advanced Network Security, Socket Programming, Server Penetration Testing & Linux Systems.
+
+* ⚙️ **Tools:** VS Code, Linux CLI, Git, GCC/G++, Wireshark, Metasploit, Nmap, Aircrack-ng.
+
+* 💻 **Active Course (Udemy):**
+  * *Ethical Hacking Fundamentals* (Atil Samancioglu) — **Current Chapter:** Server & Computer Penetration Testing
+
+* ⏳ **Upcoming Courses (Udemy):**
+  * *Ethical Hacking - Level 2: Network Attacks* (Atil Samancioglu)
+  * *Python for Ethical Hackers: From Basics to Advanced* (Atil Samancioglu)
+
+* 🎯 **Future Goals:**
+  * Achieve advanced proficiency in **C, C++, Java and Python**.
+  * Expand expertise into database management with **SQL**.
+  * Elevate English language proficiency to **C2 level**.
+    
+---
 
 ## 📦 Featured Repositories
 

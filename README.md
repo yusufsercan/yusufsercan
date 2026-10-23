@@ -62,23 +62,26 @@
     </td>
 <td width="50%" valign="top">
 
+<td valign="top" width="50%">
+
 ### 🎯 Current Focus & Goals
 
 * 🛡️ **Active Track:** Penetration testing, offensive network security, and Linux system internals.
-* ⚙️ **Systems & Core Engineering:** Low-level programming, data structures, and memory management with C/C++.
+* ⚙️ **Systems Engineering:** Low-level programming, data structures, and memory management with C/C++.
 * 🗄️ **Database Engineering:** Relational modeling, normalization, and SQL optimization (MySQL).
 
 * 💻 **Active Coursework:**
-  * *Ethical Hacking Fundamentals (Atıl Samancıoğlu)* — Server & Computer Penetration Testing.
-  * *Database Management Systems (University Coursework & Practical Labs)*
+  * *Ethical Hacking Fundamentals* (Atıl Samancıoğlu) — Penetration Testing
+  * *Database Management Systems* (University Coursework & Labs)
 
 * ⏳ **Upcoming Studies:**
-  * *Ethical Hacking - Level 2: Network Attacks (Atıl Samancıoğlu)*
-  * *Python for Ethical Hackers: From Basics to Advanced (Atıl Samancıoğlu)*
+  * *Network Attacks & Python for Ethical Hackers* (Atıl Samancıoğlu)
 
 * 🎯 **Key Milestones:**
-  * Practical mastery in systems engineering (C/C++), Java, and Python tool development.
+  * Practical mastery in systems engineering (C/C++), Java, and Python.
   * Professional English fluency (Target: C1/C2).
+
+<br/>
     
 ---
 

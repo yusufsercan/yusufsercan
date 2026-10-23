@@ -1,7 +1,7 @@
- <div align="center">    
-  
+<div align="center">    
+
 # Hi, I'm Yusuf Sercan 👋    
- 
+
 **Software Engineering Student at Karadeniz Technical Universi ty (KTU)**
 
 *I focus on low-level programming, C, C++,Java,Python, SQL architecture, Linux systems administration, and network security.*
@@ -62,17 +62,11 @@
     </td>
 <td width="50%" valign="top">
 
-<td valign="top" width="50%">
-
-### 🎯 Current Focus & Goals
-
+### 🛰️ Current Focus & Goals
 * 🚀 **Active Repositories:**
-
-* [Network-Security-Lab](*Practical Network & Protocol Security Analysis*)
-
-* [cpp-course-notes-and-practices](*C++ Study Notes and Algorithm Laboratory*)
-
-* [c-course-notes-and-practices](*Low-Level C Programming & Systems*)
+* [Network-Security-Lab]*(Practical Network & Protocol Security Analysis)*
+* [cpp-course-notes-and-practices]*(C++ Study Notes and Algorithm Laboratory)*
+* [c-course-notes-and-practices]*(Low-Level C Programming & Systems)*
 
 * 📚 **Learning Topics:** Advanced Network Security, Socket Programming, Server Penetration Testing & Linux Systems.
 
@@ -86,10 +80,16 @@
   * *Python for Ethical Hackers: From Basics to Advanced* (Atil Samancioglu)
 
 * 🎯 **Future Goals:**
-  * Achieve advanced proficiency in **C, C++, Java and Python**.
+  * Achieve advanced proficiency in **C, C++,Java and Python**.
   * Expand expertise into database management with **SQL**.
   * Elevate English language proficiency to **C2 level**.
-    
+
+    </td>
+
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 📦 Featured Repositories

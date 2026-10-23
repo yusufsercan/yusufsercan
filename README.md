@@ -63,16 +63,18 @@
 <td width="50%" valign="top">
 
 ### 🛰️ Current Focus & Goals
-- 🛡️ **Active Track:** Practical network security, server penetration testing, and Linux system internals.
-- ⚙️ **Systems & Core Engineering:** Low-level programming, data structures, and memory management with C/C++.
-- 🗄️ **Database Engineering:** Relational schema design, normalization, and SQL optimization via MySQL.
 
-* 📚 **Learning Topics:** Advanced Network Security, Socket Programming, Server Penetration Testing & Linux Systems.
+- 🛡️ **Cybersecurity & Systems:** Network security, server penetration testing, and practical labs on **Kali Linux** & **Linux CLI**.
+- ⚙️ **Software & Systems Engineering:** Low-level programming, OOP, data structures, and algorithms utilizing **C**, **C++**, and **Java**.
+- 🗄️ **Database Engineering:** Relational schema modeling, normalization, query optimization, and ANSI **SQL** via **MySQL**.
 
-* ⚙️ **Tools:** VS Code, Linux CLI, Git, GCC/G++, Wireshark, Metasploit, Nmap, Aircrack-ng.
+---
 
-* 💻 **Active Course (Udemy):**
-  * *Ethical Hacking Fundamentals* (Atil Samancioglu) — **Current Chapter:** Server & Computer Penetration Testing
+### 💻 Active & Upcoming Studies
+
+- 📖 **Ethical Hacking Fundamentals** *(Atil Samancioglu)* — Current: Server & Computer Penetration Testing
+- 🎓 **Database Management Systems** *(University Coursework & Practical Labs)*
+- ⏳ **Upcoming:** Network Attacks & Python for Ethical Hackers
 
 * ⏳ **Upcoming Courses (Udemy):**
   * *Ethical Hacking - Level 2: Network Attacks* (Atil Samancioglu)

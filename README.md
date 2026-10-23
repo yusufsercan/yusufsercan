@@ -80,7 +80,7 @@
   * *Ethical Hacking - Level 2: Network Attacks* (Atil Samancioglu)
   * *Python for Ethical Hackers: From Basics to Advanced* (Atil Samancioglu)
 ---
-### 🎯 Key Milestones
+### 🎯 Future Goals
 
 - 🚀 Advanced proficiency across **C, C++, Java, and Python** software development.
 - 🗃️ Practical mastery in relational databases, indexing, and secure data storage.

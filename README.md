@@ -62,34 +62,24 @@
     </td>
 <td width="50%" valign="top">
 
-### 🛰️ Current Focus & Goals
-* 🚀 **Active Repositories:**
-* [Network-Security-Lab]*(Practical Network & Protocol Security Analysis)*
-* [cpp-course-notes-and-practices]*(C++ Study Notes and Algorithm Laboratory)*
-* [c-course-notes-and-practices]*(Low-Level C Programming & Systems)*
-  
-* 📚 **Learning Topics:** Advanced Network Security, Socket Programming, Server Penetration Testing & Linux Systems.
+### 🎯 Current Focus & Goals
 
-* ⚙️ **Tools:** VS Code, Linux CLI, Git, GCC/G++, Wireshark, Metasploit, Nmap, Aircrack-ng.
+* 🛡️ **Active Track:** Penetration testing, offensive network security, and Linux system internals.
+* ⚙️ **Systems & Core Engineering:** Low-level programming, data structures, and memory management with C/C++.
+* 🗄️ **Database Engineering:** Relational modeling, normalization, and SQL optimization (MySQL).
 
-* 💻 **Active Course (Udemy):**
-  * *Ethical Hacking Fundamentals* (Atil Samancioglu) — **Current Chapter:** Server & Computer Penetration Testing
+* 💻 **Active Coursework:**
+  * *Ethical Hacking Fundamentals (Atıl Samancıoğlu)* — Server & Computer Penetration Testing.
+  * *Database Management Systems (University Coursework & Practical Labs)*
 
-* ⏳ **Upcoming Courses (Udemy):**
-  * *Ethical Hacking - Level 2: Network Attacks* (Atil Samancioglu)
-  * *Python for Ethical Hackers: From Basics to Advanced* (Atil Samancioglu)
+* ⏳ **Upcoming Studies:**
+  * *Ethical Hacking - Level 2: Network Attacks (Atıl Samancıoğlu)*
+  * *Python for Ethical Hackers: From Basics to Advanced (Atıl Samancıoğlu)*
 
-* 🎯 **Future Goals:**
-  * Achieve advanced proficiency in **C, C++,Java and Python**.
-  * Expand expertise into database management with **SQL**.
-  * Elevate English language proficiency to **C2 level**.
-
-    </td>
-
-    </td>
-  </tr>
-</table>
-
+* 🎯 **Key Milestones:**
+  * Practical mastery in systems engineering (C/C++), Java, and Python tool development.
+  * Professional English fluency (Target: C1/C2).
+    
 ---
 
 ## 📦 Featured Repositories

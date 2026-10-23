@@ -30,37 +30,38 @@
 
 ---
 
-<!-- İKİ KOLONLU HAKKINDA VE MEVCUT ODAK TABLOSU -->
 <table>
   <tr>
     <td width="50%" valign="top">
 
 ### 🎯 About Me
 
-* 🎓 **Education:** Software Engineering at Karadeniz Technical University (KTU).
-* 🛠️ **Core Focus:** C/C++,Java & Python development, memory management (Pointers), data structures, and algorithm design.
-* 💻 **Environment:** Windows primary OS, using Linux via Virtual Machines (VMs) & WSL for security labs and development.
-* 🌐 **Security:** Learning network security fundamentals via online courses (Udemy) and practicing hands-on labs on platforms like TryHackMe and Hackviser.
-* 📐 **Engineering Mindset:** Clean code architecture, structured Git workflows, and continuous improvement.
+- 🎓 **Education:** Software Engineering at Karadeniz Technical University (KTU).
+- 🛠️ **Core Focus:** C/C++, Java & Python development, memory management (Pointers), data structures, and algorithm design.
+- 💻 **Environment:** Windows primary OS, using Linux via Virtual Machines (VMs) & WSL for security labs and development.
+- 🌐 **Security:** Learning network security fundamentals via online courses (Udemy) and practicing hands-on labs on platforms like TryHackMe and Hackviser.
+- 📐 **Engineering Mindset:** Clean code architecture, structured Git workflows, and continuous improvement.
 
 ---
 
 ### 🧰 Tech Stack & Environments
 
-* **Languages:** C, C++, Java, Bash
-* **OS & Environments:** Kali Linux, Ubuntu, Windows 11, WSL2
-* **Hypervisors:** VMware Workstation, VirtualBox
-* **Security & Analysis:** Wireshark, Nmap, Metasploit, Bettercap, Aircrack-ng Suite, Anonsurf
+- **Languages:** C, C++, Java, Bash
+- **OS & Environments:** Kali Linux, Ubuntu, Windows 11, WSL2
+- **Hypervisors:** VMware Workstation, VirtualBox
+- **Security & Analysis:** Wireshark, Nmap, Metasploit, Bettercap, Aircrack-ng Suite, Anonsurf
 
 ---
 
 ### 🏆 Platforms & Practice
 
-* 🛡️ **TryHackMe:** Active lab practice
-* 🎯 **Hackviser:** Hands-on scenario labs
+- 🛡️ **TryHackMe:** Active lab practice
+- 🎯 **Hackviser:** Hands-on scenario labs
 
-  
-<td width="50%" valign="top">
+<br/>
+
+    </td>
+    <td width="50%" valign="top">
 
 ### 🛰️ Current Focus & Goals
 
@@ -84,11 +85,13 @@
 - 🗃️ Practical mastery in relational databases, indexing, and secure data storage.
 - 🌐 Professional English language fluency (Target: **C1/C2**).
 
-</td>
+<br/>
 
     </td>
   </tr>
 </table>
+
+<br/>
 
 ---
 

@@ -85,7 +85,7 @@
 - 🚀 Advanced proficiency across **C, C++, Java, and Python** software development.
 - 🗃️ Practical mastery in relational databases, indexing, and secure data storage.
 - 🌐 Professional English language fluency (Target: **C1/C2**)
-- 
+  
     </td>
 
     </td>

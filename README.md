@@ -1,295 +1,167 @@
-<div align="center">    
-
-
+ <div align="center">    
 
 # Hi, I'm Yusuf Sercan 👋    
 
-
-
 **Software Engineering Student at Karadeniz Technical Universi ty (KTU)**
-
-
 
 *I focus on low-level programming, C, C++,Java,Python, SQL architecture, Linux systems administration, and network security.*
 
-
-
 ---
 
-
-
 <p align="center">
-
   <a href="https://linkedin.com/in/KULLANICI_ADIN" target="_blank">
-
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-
   </a>
-
   <a href="mailto:yusufsercanisci2005@gmail.com">
-
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-
   </a>
-
   <a href="https://tryhackme.com/p/KULLANICI_ADIN" target="_blank">
-
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
-
   </a>
-
   <a href="https://app.hackviser.com/profile/KULLANICI_ADIN" target="_blank">
-
     <img src="https://img.shields.io/badge/Hackviser-FF5722?style=for-the-badge&logo=target&logoColor=white" alt="Hackviser" />
-
   </a>
-
   <a href="https://www.hackerrank.com/profile/KULLANICI_ADIN" target="_blank">
-
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
-
   </a>
-
 </p>
-
-
 
 </div>
 
-
-
 ---
 
-
-
 <!-- İKİ KOLONLU HAKKINDA VE MEVCUT ODAK TABLOSU -->
-
 <table>
-
   <tr>
-
     <td width="50%" valign="top">
-
-
 
 ### 🎯 About Me
 
-
-
-🎓 **Education:** Software Engineering at Karadeniz Technical University (KTU).
-🛠️ **Core Focus:** C/C++,Java & Python development, memory management (Pointers), data structures, and algorithm design.
-💻 **Environment:** Windows primary OS, using Linux via Virtual Machines (VMs) & WSL for security labs and development.
-🌐 **Security:** Learning network security fundamentals via online courses (Udemy) and practicing hands-on labs on platforms like TryHackMe and Hackviser.
-📐 **Engineering Mindset:** Clean code architecture, structured Git workflows, and continuous improvement.
-
+* 🎓 **Education:** Software Engineering at Karadeniz Technical University (KTU).
+* 🛠️ **Core Focus:** C/C++,Java & Python development, memory management (Pointers), data structures, and algorithm design.
+* 💻 **Environment:** Windows primary OS, using Linux via Virtual Machines (VMs) & WSL for security labs and development.
+* 🌐 **Security:** Learning network security fundamentals via online courses (Udemy) and practicing hands-on labs on platforms like TryHackMe and Hackviser.
+* 📐 **Engineering Mindset:** Clean code architecture, structured Git workflows, and continuous improvement.
 
 ---
-
-
 
 ### 🧰 Tech Stack & Environments
 
-
-
-**Languages:** C, C++, Java, Bash
-**OS & Environments:** Kali Linux, Ubuntu, Windows 11, WSL2
-**Hypervisors:** VMware Workstation, VirtualBox
-**Security & Analysis:** Wireshark, Nmap, Metasploit, Bettercap, Aircrack-ng Suite, Anonsurf
-
+* **Languages:** C, C++, Java, Bash
+* **OS & Environments:** Kali Linux, Ubuntu, Windows 11, WSL2
+* **Hypervisors:** VMware Workstation, VirtualBox
+* **Security & Analysis:** Wireshark, Nmap, Metasploit, Bettercap, Aircrack-ng Suite, Anonsurf
 
 ---
-
-
 
 ### 🏆 Platforms & Practice
 
-
-
-🛡️ **TryHackMe:** Active lab practice
-🎯 **Hackviser:** Hands-on scenario labs
-
+* 🛡️ **TryHackMe:** Active lab practice
+* 🎯 **Hackviser:** Hands-on scenario labs
 
     </td>
-
 <td width="50%" valign="top">
 
-
-
 ### 🛰️ Current Focus & Goals
+* 🚀 **Active Repositories:**
+* [Network-Security-Lab]*(Practical Network & Protocol Security Analysis)*
+* [cpp-course-notes-and-practices]*(C++ Study Notes and Algorithm Laboratory)*
+* [c-course-notes-and-practices]*(Low-Level C Programming & Systems)*
 
-🚀 **Active Repositories:**
-[Network-Security-Lab]*(Practical Network & Protocol Security Analysis)*
-[cpp-course-notes-and-practices]*(C++ Study Notes and Algorithm Laboratory)*
-[c-course-notes-and-practices]*(Low-Level C Programming & Systems)*
+* 📚 **Learning Topics:** Advanced Network Security, Socket Programming, Server Penetration Testing & Linux Systems.
 
+* ⚙️ **Tools:** VS Code, Linux CLI, Git, GCC/G++, Wireshark, Metasploit, Nmap, Aircrack-ng.
 
-📚 **Learning Topics:** Advanced Network Security, Socket Programming, Server Penetration Testing & Linux Systems.
-
-
-⚙️ **Tools:** VS Code, Linux CLI, Git, GCC/G++, Wireshark, Metasploit, Nmap, Aircrack-ng.
-
-
-💻 **Active Course (Udemy):**
+* 💻 **Active Course (Udemy):**
   * *Ethical Hacking Fundamentals* (Atil Samancioglu) — **Current Chapter:** Server & Computer Penetration Testing
 
-
-
-⏳ **Upcoming Courses (Udemy):**
+* ⏳ **Upcoming Courses (Udemy):**
   * *Ethical Hacking - Level 2: Network Attacks* (Atil Samancioglu)
-
   * *Python for Ethical Hackers: From Basics to Advanced* (Atil Samancioglu)
 
-
-
-🎯 **Future Goals:**
+* 🎯 **Future Goals:**
   * Achieve advanced proficiency in **C, C++,Java and Python**.
-
   * Expand expertise into database management with **SQL**.
-
   * Elevate English language proficiency to **C2 level**.
 
-
-
     </td>
 
-
-
     </td>
-
   </tr>
-
 </table>
 
-
-
 ---
-
-
 
 ## 📦 Featured Repositories
 
-
-
 ### 🚀 [cpp-course-notes-and-practices](https://github.com/yusufsercan/cpp-course-notes-and-practices)
-
 Comprehensive C++ study repository covering core concepts, pointers, dynamic memory allocation, and object-oriented programming.
-
-**Stack:** C++, GCC, Make
-**Focus:** Clean Code & Systems Fundamentals
-**Status:** `Active Development`
-
+* **Stack:** C++, GCC, Make
+* **Focus:** Clean Code & Systems Fundamentals
+* **Status:** `Active Development`
 
 ---
-
-
 
 ### ⚙️ [c-course-notes-and-practices](https://github.com/yusufsercan/c-course-notes-and-practices)
-
 Comprehensive C programming study repository focusing on low-level memory management, pointers, struct architectures, and system algorithms.
-
-**Stack:** C, GCC, Make
-**Focus:** Low-Level Programming & Data Structures
-**Status:** `Active Development`
-
+* **Stack:** C, GCC, Make
+* **Focus:** Low-Level Programming & Data Structures
+* **Status:** `Active Development`
 
 ---
-
-
 
 ### 🛡️ [Network-Security-Lab](https://github.com/yusufsercan/Network-Security-Lab)
-
 Practical network security experiments, protocol behavior analyses, packet inspection reports, and defensive architecture notes.
-
-**Stack:** Linux, Wireshark, Nmap, Bettercap, Aircrack-ng, Bash, C
-**Focus:** Network & System Security, Protocol Analysis, 802.11 & MITM Behaviors
-**Status:** `Active Development` / `Documented Labs`
-
+* **Stack:** Linux, Wireshark, Nmap, Bettercap, Aircrack-ng, Bash, C
+* **Focus:** Network & System Security, Protocol Analysis, 802.11 & MITM Behaviors
+* **Status:** `Active Development` / `Documented Labs`
 
 ---
-
-
 
 ### ☕ [java-oop-course-notes-and-practices](https://github.com/yusufsercan/java-oop-course-notes-and-practices)
-
 Comprehensive Java study repository covering Object-Oriented Programming (OOP) paradigms, JVM architecture, design principles, and academic laboratory practices.
-
-**Stack:** Java (JDK 21), JVM, javac
-**Focus:** Object-Oriented Programming (OOP), Memory Management & Clean Architecture
-**Status:** `Active Development`
-
+* **Stack:** Java (JDK 21), JVM, javac
+* **Focus:** Object-Oriented Programming (OOP), Memory Management & Clean Architecture
+* **Status:** `Active Development`
 
 ---
-
-
 
 ### 🗄️ [mysql-learning-and-practice](https://github.com/yusufsercan/mysql-learning-and-practice)
 
-
-
 SQL learning repository containing MySQL queries, database exercises, and practical examples developed through coursework and independent study.
 
-
-
-**Stack:** MySQL, MySQL Workbench, SQL
-**Focus:** Database Fundamentals, Query Writing & Relational Database Concepts
-**Status:** `Active Development`
-
+- **Stack:** MySQL, MySQL Workbench, SQL
+- **Focus:** Database Fundamentals, Query Writing & Relational Database Concepts
+- **Status:** `Active Development`
 
 ---
-
-
 
 ### 🕵️ Mini-Sherlock OSINT Scanner `[Coming Soon]`
-
-**Focus:** Open Source Intelligence (OSINT), HTTP Status Code Auditing & Username Reconnaissance.
-**Stack:** Modern C++, libcurl / WinINet, STL Containers (`vector`, `map`).
-**Status:** ⏳ In Planning / Roadmapped.
-
+* **Focus:** Open Source Intelligence (OSINT), HTTP Status Code Auditing & Username Reconnaissance.
+* **Stack:** Modern C++, libcurl / WinINet, STL Containers (`vector`, `map`).
+* **Status:** ⏳ In Planning / Roadmapped.
 
 ---
-
-
 
 ## 💻 Languages and Tools
 
-
-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-
 
 ---
 
-
-
 ### 📊 GitHub Stats
 
-
-
 <p align="center">
-
   <img src="https://streak-stats.demolab.com?user=yusufsercan&theme=dark&hide_border=true" width="48%" alt="Yusuf Sercan Streak" />
-
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yusufsercan&layout=compact&theme=dark&hide_border=true" width="48%" alt="En Çok Kullanılan Diller" />
-
 </p>
-
-
 
 ---

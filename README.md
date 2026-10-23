@@ -63,28 +63,28 @@
 <td width="50%" valign="top">
 
 ### 🛰️ Current Focus & Goals
-* 🚀 **Active Repositories:**
-* [Network-Security-Lab]*(Practical Network & Protocol Security Analysis)*
-* [cpp-course-notes-and-practices]*(C++ Study Notes and Algorithm Laboratory)*
-* [c-course-notes-and-practices]*(Low-Level C Programming & Systems)*
 
-* 📚 **Learning Topics:** Advanced Network Security, Socket Programming, Server Penetration Testing & Linux Systems.
+- 🛡️ **Cybersecurity & Systems:** Network security, server penetration testing, and practical labs on **Kali Linux** & **Linux CLI**.
+- ⚙️ **Software & Systems Engineering:** Low-level programming, OOP, data structures, and algorithms utilizing **C**, **C++**, and **Java**.
+- 🗄️ **Database Engineering:** Relational schema modeling, normalization, query optimization, and ANSI **SQL** via **MySQL**.
 
-* ⚙️ **Tools:** VS Code, Linux CLI, Git, GCC/G++, Wireshark, Metasploit, Nmap, Aircrack-ng.
+---
 
-* 💻 **Active Course (Udemy):**
-  * *Ethical Hacking Fundamentals* (Atil Samancioglu) — **Current Chapter:** Server & Computer Penetration Testing
+### 💻 Active & Upcoming Studies
 
-* ⏳ **Upcoming Courses (Udemy):**
-  * *Ethical Hacking - Level 2: Network Attacks* (Atil Samancioglu)
-  * *Python for Ethical Hackers: From Basics to Advanced* (Atil Samancioglu)
+- 📖 **Ethical Hacking Fundamentals** *(Atil Samancioglu)* — Current: Server & Computer Penetration Testing
+- 🎓 **Database Management Systems** *(University Coursework & Practical Labs)*
+- ⏳ **Upcoming:** Network Attacks & Python for Ethical Hackers
 
-* 🎯 **Future Goals:**
-  * Achieve advanced proficiency in **C, C++,Java and Python**.
-  * Expand expertise into database management with **SQL**.
-  * Elevate English language proficiency to **C2 level**.
+---
 
-    </td>
+### 🎯 Key Milestones
+
+- 🚀 Advanced proficiency across **C, C++, Java, and Python** software development.
+- 🗃️ Practical mastery in relational databases, indexing, and secure data storage.
+- 🌐 Professional English language fluency (Target: **C1/C2**).
+
+</td>
 
     </td>
   </tr>

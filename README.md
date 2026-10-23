@@ -35,15 +35,19 @@
   <tr>
     <td width="50%" valign="top">
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ### 🎯 About Me
 
 * 🎓 **Education:** Software Engineering at Karadeniz Technical University (KTU).
-* 🛠️ **Core Focus:** C/C++,Java & Python development, memory management (Pointers), data structures, and algorithm design.
+* 🛠️ **Core Focus:** C/C++, Java & Python development, memory management (Pointers), data structures, and algorithm design.
 * 💻 **Environment:** Windows primary OS, using Linux via Virtual Machines (VMs) & WSL for security labs and development.
 * 🌐 **Security:** Learning network security fundamentals via online courses (Udemy) and practicing hands-on labs on platforms like TryHackMe and Hackviser.
 * 📐 **Engineering Mindset:** Clean code architecture, structured Git workflows, and continuous improvement.
 
----
+<br/>
 
 ### 🧰 Tech Stack & Environments
 
@@ -52,16 +56,14 @@
 * **Hypervisors:** VMware Workstation, VirtualBox
 * **Security & Analysis:** Wireshark, Nmap, Metasploit, Bettercap, Aircrack-ng Suite, Anonsurf
 
----
+<br/>
 
 ### 🏆 Platforms & Practice
 
 * 🛡️ **TryHackMe:** Active lab practice
 * 🎯 **Hackviser:** Hands-on scenario labs
 
-    </td>
-<td width="50%" valign="top">
-
+</td>
 <td valign="top" width="50%">
 
 ### 🎯 Current Focus & Goals
@@ -89,8 +91,10 @@
   * Achieve advanced proficiency in **C, C++, Java and Python**.
   * Expand expertise into database management with **SQL**.
   * Elevate English language proficiency to **C2 level**.
-    
----
+
+</td>
+</tr>
+</table>
 
 ## 📦 Featured Repositories
 

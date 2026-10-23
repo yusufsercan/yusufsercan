@@ -126,6 +126,16 @@ Comprehensive Java study repository covering Object-Oriented Programming (OOP) p
 
 ---
 
+### 🗄️ [mysql-learning-and-practice](https://github.com/yusufsercan/mysql-learning-and-practice)
+
+SQL learning repository containing MySQL queries, database exercises, and practical examples developed through coursework and independent study.
+
+- **Stack:** MySQL, MySQL Workbench, SQL
+- **Focus:** Database Fundamentals, Query Writing & Relational Database Concepts
+- **Status:** `Active Development`
+
+---
+
 ### 🕵️ Mini-Sherlock OSINT Scanner `[Coming Soon]`
 * **Focus:** Open Source Intelligence (OSINT), HTTP Status Code Auditing & Username Reconnaissance.
 * **Stack:** Modern C++, libcurl / WinINet, STL Containers (`vector`, `map`).

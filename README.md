@@ -66,22 +66,29 @@
 
 ### 🎯 Current Focus & Goals
 
-* 🛡️ **Active Track:** Penetration testing, offensive network security, and Linux system internals.
-* ⚙️ **Systems Engineering:** Low-level programming, data structures, and memory management with C/C++.
-* 🗄️ **Database Engineering:** Relational modeling, normalization, and SQL optimization (MySQL).
+* 🚀 **Active Repositories:**
 
-* 💻 **Active Coursework:**
-  * *Ethical Hacking Fundamentals* (Atıl Samancıoğlu) — Penetration Testing
-  * *Database Management Systems* (University Coursework & Labs)
+* [Network-Security-Lab](*Practical Network & Protocol Security Analysis*)
 
-* ⏳ **Upcoming Studies:**
-  * *Network Attacks & Python for Ethical Hackers* (Atıl Samancıoğlu)
+* [cpp-course-notes-and-practices](*C++ Study Notes and Algorithm Laboratory*)
 
-* 🎯 **Key Milestones:**
-  * Practical mastery in systems engineering (C/C++), Java, and Python.
-  * Professional English fluency (Target: C1/C2).
+* [c-course-notes-and-practices](*Low-Level C Programming & Systems*)
 
-<br/>
+* 📚 **Learning Topics:** Advanced Network Security, Socket Programming, Server Penetration Testing & Linux Systems.
+
+* ⚙️ **Tools:** VS Code, Linux CLI, Git, GCC/G++, Wireshark, Metasploit, Nmap, Aircrack-ng.
+
+* 💻 **Active Course (Udemy):**
+  * *Ethical Hacking Fundamentals* (Atil Samancioglu) — **Current Chapter:** Server & Computer Penetration Testing
+
+* ⏳ **Upcoming Courses (Udemy):**
+  * *Ethical Hacking - Level 2: Network Attacks* (Atil Samancioglu)
+  * *Python for Ethical Hackers: From Basics to Advanced* (Atil Samancioglu)
+
+* 🎯 **Future Goals:**
+  * Achieve advanced proficiency in **C, C++, Java and Python**.
+  * Expand expertise into database management with **SQL**.
+  * Elevate English language proficiency to **C2 level**.
     
 ---
 

@@ -59,7 +59,7 @@
 * 🛡️ **TryHackMe:** Active lab practice
 * 🎯 **Hackviser:** Hands-on scenario labs
 
-    </td>
+  
 <td width="50%" valign="top">
 
 ### 🛰️ Current Focus & Goals

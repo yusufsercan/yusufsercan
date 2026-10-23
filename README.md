@@ -63,10 +63,9 @@
 <td width="50%" valign="top">
 
 ### 🛰️ Current Focus & Goals
-* 🚀 **Active Repositories:**
-* [Network-Security-Lab]*(Practical Network & Protocol Security Analysis)*
-* [cpp-course-notes-and-practices]*(C++ Study Notes and Algorithm Laboratory)*
-* [c-course-notes-and-practices]*(Low-Level C Programming & Systems)*
+- 🛡️ **Active Track:** Practical network security, server penetration testing, and Linux system internals.
+- ⚙️ **Systems & Core Engineering:** Low-level programming, data structures, and memory management with C/C++.
+- 🗄️ **Database Engineering:** Relational schema design, normalization, and SQL optimization via MySQL.
 
 * 📚 **Learning Topics:** Advanced Network Security, Socket Programming, Server Penetration Testing & Linux Systems.
 

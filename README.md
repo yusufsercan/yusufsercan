@@ -163,5 +163,5 @@ SQL learning repository containing MySQL queries, database exercises, and practi
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=yusufsercan&theme=dark&hide_border=true" width="48%" alt="Yusuf Sercan Streak" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yusufsercan&theme=dark&hide_border=true&langs_count=8&custom_colors=SQL:e38c00" width="48%" alt="En Çok Kullanılan Diller" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yusufsercan&layout=compact&theme=dark&hide_border=true&langs_count=6" width="48%" alt="En Çok Kullanılan Diller" /></p> --- 
  

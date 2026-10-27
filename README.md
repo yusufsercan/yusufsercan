@@ -15,7 +15,7 @@
   <a href="mailto:yusufsercanisci2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://tryhackme.com/p/KULLANICI_ADIN" target="_blank">
+  <a href="https://tryhackme.com/p/yusufsercan">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   </a>
   <a href="https://app.hackviser.com/profile/KULLANICI_ADIN" target="_blank">

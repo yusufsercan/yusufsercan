@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/KULLANICI_ADIN" target="_blank">
+  <a href="[https://linkedin.com/in/KULLANICI_ADIN](https://www.linkedin.com/in/yusuf-sercan-i%C5%9Fci-498742387/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:yusufsercanisci2005@gmail.com">

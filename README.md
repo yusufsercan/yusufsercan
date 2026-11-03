@@ -2,7 +2,7 @@
 
 # Hi, I'm Yusuf Sercan 👋    
 
-**Software Engineering Student at Karadeniz Technical Universi ty (KTU)**
+**Software Engineering Student at Karadeniz Technical University (KTU)**
 
 *I focus on low-level programming, C, C++,Java,Python, SQL architecture, Linux systems administration, and network security.*
 

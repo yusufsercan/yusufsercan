@@ -22,7 +22,7 @@ Currently learning, building, and documenting my technical journey.
 
 I'm a second-year Software Engineering student at Karadeniz Technical University (KTU), with a strong interest in cybersecurity, low-level programming, and computer systems.
 
-I am developing my programming skills in C, C++, Java, Python, and SQL while strengthening my understanding of operating systems, memory management, and computer networks.
+I am developing my programming skills in C, C++, Java, and SQL while strengthening my understanding of operating systems, memory management, and computer networks.
 
 Alongside my university education, I practice cybersecurity concepts in isolated virtual laboratory environments using tools such as Wireshark, Nmap, and Linux.
 

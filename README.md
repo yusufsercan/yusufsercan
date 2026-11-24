@@ -113,7 +113,7 @@ The project is being developed as a hands-on learning experience in systems prog
 
 <img src="https://streak-stats.demolab.com?user=yusufsercan&theme=dark&hide_border=true" height="165" alt="GitHub Streak Statistics" />
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yusufsercan&layout=compact&theme=dark&hide_border=true&langs_count=6" height="165" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufsercan&layout=compact&theme=dark&hide_border=true&langs_count=6" height="165" alt="Most Used Languages" />
 
 </div>
 
